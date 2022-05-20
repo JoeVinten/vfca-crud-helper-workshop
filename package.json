@@ -1,0 +1,21 @@
+{
+  "name": "vfca-crud-helper-workshop",
+  "version": "1.0.0",
+  "description": "Vf code academy CRUD helper NPM module.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoeVinten/vfca-crud-helper-workshop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoeVinten/vfca-crud-helper-workshop/issues"
+  },
+  "homepage": "https://github.com/JoeVinten/vfca-crud-helper-workshop#readme"
+}
